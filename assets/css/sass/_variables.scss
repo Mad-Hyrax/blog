@@ -1,0 +1,26 @@
+$black: #000;
+$white: #fff;
+$blue: #2d89ec;
+$dark-purple: #311e3e;
+$dark-pink: #87314e;
+$gray: #efefef;
+$light-gray: #999999;
+$lighten-gray: #d9d9d9;
+$dark-gray: #3e3e40;
+
+// Mixins
+@mixin heading-font {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+@mixin body-font {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+}
+
+@mixin body-font-bold {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 600;
+}
