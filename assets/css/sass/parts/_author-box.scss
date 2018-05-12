@@ -13,6 +13,7 @@
   }
   .author-desc {
     h2 {
+      @include heading-font-alt;
       margin: 0 0 10px;
     }
     p {

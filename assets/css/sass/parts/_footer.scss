@@ -1,10 +1,10 @@
 .main-footer {
-  padding: 15px 0;
-  background-color: #efefef;
+  background-color: $secondary;
 
   .copyright {
+    @include body-font-bold;
     text-align: center;
-    color: $dark-purple;
+    color: $white;
     font-size: 16px;
   }
 }

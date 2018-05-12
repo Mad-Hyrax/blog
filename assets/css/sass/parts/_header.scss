@@ -1,5 +1,5 @@
 .main-header {
-  @include heading-font;
+  @include body-font-bold;
   padding: 15px 0;
   background-color: $white;
   box-shadow: 0px -5px 15px rgba(0,0,0,.3);
@@ -13,11 +13,11 @@
     width: 50%;
     text-align: center;
     a {
+      @include serif-font;
+      letter-spacing: 1px;
       text-decoration: none;
-      text-transform: uppercase;
-      font-size: 27px;
-      font-weight: 300;
-      color: $dark-purple;
+      font-size: 35px;
+      color: $primary;
     }
   }
 }
@@ -44,12 +44,11 @@
         padding: 15px 0;
         text-decoration: none;
         text-transform: uppercase;
-        font-weight: 400;
         font-size: 16px;
-        color: $dark-purple;
+        color: $primary;
         &:hover {
           opacity: .8;
-          color: $dark-pink;
+          color: $primary;
         }
       }
     }
@@ -72,7 +71,7 @@
 .search-icon-close {
   cursor: pointer;
   font-size: 18px;
-  color: $dark-purple;
+  color: $primary;
   transition: all .4s;
   &:hover {
     opacity: .8;
