@@ -4,13 +4,13 @@ title:  The utility of Delegates and Events and in Unity.
 date:   2018-03-23 13:00:00 0000
 description: This blog post aims to give you beginner insights about Delegates in Unity.
 img: panama.jpeg
-tags: [Teaching]
+tags: [Unity3D, gamedev]
 author: Juan Rodriguez
 ---
 
 ¡Hola! My name is Juan Rodriguez. I am a Panamanian 🇵🇦 game developer and programmer based in New Zealand 🇳🇿. This blog post was written for [notGDC](http://www.notgdc.fun/) as I wanted to contribute some of my knowledge with the community. It is aimed towards programmers looking to get the most out of Unity, no matter the skill level. The initial stages will be fairly basic as I want everyone to understand this tutorial, so feel free to skip parts as you wish! (Or just grab the [source code](https://github.com/timrodz/unity-callback_examples)). The tools I used are Unity [2017.3.1p2](https://unity3d.com/unity/qa/patch-releases/2017.3.1p2) and [Visual Studio Code](https://code.visualstudio.com/).
 
-**Update**: [@damagefilter](https://twitter.com/damagefilter) wrote a more advanced tutorial regarding events in Unity. Go check it out 😄 http://www.indiedb.com/members/damagefilter/blogs/event-and-unity.
+**Update**: [@damagefilter](https://twitter.com/damagefilter/) wrote a more advanced tutorial regarding events in Unity. Go check it out 😄 http://www.indiedb.com/members/damagefilter/blogs/event-and-unity.
 
 **Note**: To acces this post’s table of contents, hover your mouse at the left-most part of the page. Also, if you read anything that looks *off*, please let me know! I’m only a human (and a student).
 
@@ -26,7 +26,7 @@ When the user clicks the ‘*Send Message*’ button, you want to inform the UI 
 
 Here’s a GIF of how the game will look like:
 
-![Simple, but it works.](https://d2mxuefqeaa7sj.cloudfront.net/s_D11E4DDA95132894A58374EF108515AE645802B9C60AB61E7BBDE42AF0A7A244_1521692839551_notgdc.gif)
+![Simple, but works.](../assets/img/posts/notgdc_intro.gif)
 
 # The approach
 
