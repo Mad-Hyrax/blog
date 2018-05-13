@@ -2,30 +2,30 @@ title: Juan Alejandro Morais
 email: timrodz@icloud.com
 description: This is my personal blog! Here I write about things in life and everything related to game development.
 permalink: ':title/'
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://Mad-Hyrax.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/blog"
+url: "https://Mad-Hyrax.github.io"
 
 # Author settings
-author: Juan Alejandro Morais # add your name
+author: Juan Alejandro Morais
 author-pic: headshot.jpeg
 about-author: Juan Rodriguez is a programmer and game developer focusing on game feel and UI/UX.
 
 # Contact links
-email: timrodz@icloud.com # Add your Email address
+email: timrodz@icloud.com
 # phone: # Add your Phone number
-website: http://timrodz.com # Add your website, do not add http://
-linkedin: timrodz # Add your Linkedin handle
-github: timrodz # Add your Github handle
-twitter: '@timrodz' # Add your Twitter handle
+website: http://timrodz.com
+linkedin: timrodz
+github: timrodz
+twitter: '@timrodz'
 # facebook: # Add your Facebook handle
-instagram: timrodz # Add your Instagram handle
+instagram: timrodz
 # pinterest: # Add your Pinterest handle
 
 # Newsletter
 # mailchimp: # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: timrodz # Add your discus identifier
+discus_identifier: timrodz
 
 # Tracker
 # analytics: # Google Analytics
