@@ -1,9 +1,6 @@
 title: Juan Alejandro Morais
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+email: timrodz@icloud.com
+description: This is my personal blog! Here I write about things in life and everything related to game development.
 permalink: ':title/'
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://Mad-Hyrax.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -11,7 +8,7 @@ url: "https://Mad-Hyrax.github.io" # the base hostname & protocol for your site,
 # Author settings
 author: Juan Alejandro Morais # add your name
 author-pic: headshot.jpeg
-about-author: Juan Rodriguez is a game developer focusing on game feel and UI/UX. He specialises in Unity and Unreal Engine.
+about-author: Juan Rodriguez is a programmer and game developer focusing on game feel and UI/UX.
 
 # Contact links
 email: timrodz@icloud.com # Add your Email address
@@ -31,7 +28,7 @@ instagram: timrodz # Add your Instagram handle
 discus_identifier: timrodz # Add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+# analytics: # Google Analytics
 
 # Paginate
 paginate: 6
